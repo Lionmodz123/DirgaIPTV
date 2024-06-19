@@ -26,7 +26,7 @@ https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd
 #EXTINF:-1 tvg-logo="https://mmc.tirto.id/image/otf/640x0/2024/06/11/uefa-euro-2024_ratio-16x9.jpg" group-title="BACKUP-HOMETV",BACKUP-5
 https://live.tmk.ir/channel1/signal/stream_720/index.m3u8
   
-#EXTINF:-1 tvg-logo="https://mmc.tirto.id/image/otf/640x0/2024/06/11/uefa-euro-2024_ratio-16x9.jpg" group-title="BACKUP-HOMETV",BACKUP-5
+#EXTINF:-1 tvg-logo="https://mmc.tirto.id/image/otf/640x0/2024/06/11/uefa-euro-2024_ratio-16x9.jpg" group-title="BACKUP-HOMETV",BACKUP-6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
