@@ -1,0 +1,775 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_7_id.png" ,group-title="LOKAL-ID" ,TRANS 7 HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3515
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_tv_id.png" ,group-title="LOKAL-ID" ,TRANS TV HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3516
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/indosiar-id.png" ,group-title="LOKAL-ID" ,INDOSIAR HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3517
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sctv_id.png" ,group-title="LOKAL-ID" ,SCTV HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3518
+#EXTINF:-1 tvg-logo="https://media.suara.com/suara-partners/deli/thumbs/480x270/2023/10/17/1-rcti.jpg" ,group-title="LOKAL-ID" ,RCTI HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3519
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mnc_id_tv.png" ,group-title="LOKAL-ID" ,MNC TV HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3520
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/gtv-id.png" ,group-title="LOKAL-ID" ,GTV HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3521
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/inews-id.png" ,group-title="LOKAL-ID" ,iNEWS TV
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3522
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/antv.png" ,group-title="LOKAL-ID" ,ANTV HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3523
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvone-id.png" ,group-title="LOKAL-ID" ,TV ONE HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3524
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/net-id.png" ,group-title="LOKAL-ID" ,NET TV HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/11
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/metro_tv_id.png" ,group-title="LOKAL-ID" ,METRO TV HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/12
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kompas-tv-id.png" ,group-title="LOKAL-ID" ,KOMPAS TV HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/13
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png" ,group-title="LOKAL-ID" ,RTV HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/14
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-id.png" ,group-title="LOKAL-ID" ,TVRI HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/19
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Logo_BeritaSatu_Media.png" ,group-title="LOKAL-ID" ,BERITA SATU HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/16
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn_id.png" ,group-title="LOKAL-ID" ,CNN INDONESIA
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/17
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cmbc-indonesia-us-id.png" ,group-title="LOKAL-ID" ,CNBC INDONESIA
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/18
+
+
+#EXTINF:-1 tvg-logo="https://asset.kompas.com/crops/TGv9aYr6dBvb6UuQU6L7dBZRNl8=/0x0:0x0/750x500/data/photo/2021/04/01/6065bbc1cde04.jpg" group-title="BIOSKOP" ,Bioskop Action
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/20
+#EXTINF:-1 tvg-logo="https://asset.kompas.com/crops/TGv9aYr6dBvb6UuQU6L7dBZRNl8=/0x0:0x0/750x500/data/photo/2021/04/01/6065bbc1cde04.jpg" group-title="BIOSKOP" ,Bioskop Thriller
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/21
+#EXTINF:-1 tvg-logo="https://asset.kompas.com/crops/TGv9aYr6dBvb6UuQU6L7dBZRNl8=/0x0:0x0/750x500/data/photo/2021/04/01/6065bbc1cde04.jpg" group-title="BIOSKOP" ,Bioskop China
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/22
+#EXTINF:-1 tvg-logo="https://asset.kompas.com/crops/TGv9aYr6dBvb6UuQU6L7dBZRNl8=/0x0:0x0/750x500/data/photo/2021/04/01/6065bbc1cde04.jpg" group-title="BIOSKOP" ,Bioskop Bollywood
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/23
+#EXTINF:-1 tvg-logo="https://asset.kompas.com/crops/TGv9aYr6dBvb6UuQU6L7dBZRNl8=/0x0:0x0/750x500/data/photo/2021/04/01/6065bbc1cde04.jpg" group-title="BIOSKOP" ,Bioskop Drama & Family
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/24
+#EXTINF:-1 tvg-logo="https://asset.kompas.com/crops/TGv9aYr6dBvb6UuQU6L7dBZRNl8=/0x0:0x0/750x500/data/photo/2021/04/01/6065bbc1cde04.jpg" group-title="BIOSKOP" ,Bioskop Horror
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/25
+#EXTINF:-1 tvg-logo="https://asset.kompas.com/crops/TGv9aYr6dBvb6UuQU6L7dBZRNl8=/0x0:0x0/750x500/data/photo/2021/04/01/6065bbc1cde04.jpg" group-title="BIOSKOP" ,Bioskop Indonesia
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/26
+#EXTINF:-1 tvg-logo="https://asset.kompas.com/crops/TGv9aYr6dBvb6UuQU6L7dBZRNl8=/0x0:0x0/750x500/data/photo/2021/04/01/6065bbc1cde04.jpg" group-title="BIOSKOP" ,Bioskop Warkop DKI
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/27
+
+
+
+#EXTINF:-1 tvg-logo="https://www.ctvnews.ca/polopoly_fs/1.2503403.1438796134!/httpImage/image.png_gen/derivatives/landscape_1020/image.png" group-title="FUNNY" ,Just For Laughs
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/28
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Tom_and_Jerry_logo.svg/1600px-Tom_and_Jerry_logo.svg.png" group-title="FUNNY" ,TOM & JERRY
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/29
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/60/Mr._bean_title_card.jpg/400px-Mr._bean_title_card.jpg" group-title="FUNNY" ,MR. BEAN
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/30
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES" ,HBO HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/31
+#EXTINF:-1 tvg-logo="" group-title="MOVIES" ,HBO SIGN HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/32
+#EXTINF:-1 tvg-logo="" group-title="MOVIES" ,HBO HITS HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/33
+#EXTINF:-1 tvg-logo="" group-title="MOVIES" ,HBO FAMILY HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/34
+#EXTINF:-1 tvg-logo="" group-title="MOVIES" ,CINEMAX HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/35
+#EXTINF:-1 tvg-logo="" group-title="MOVIES" ,BIOSKOP INDONESIA HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/36
+#EXTINF:-1 tvg-logo="" group-title="MOVIES" ,FLIK HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/37
+#EXTINF:-1 tvg-logo="" group-title="MOVIES" ,IMC HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/38
+#EXTINF:-1 tvg-logo="" group-title="MOVIES" ,WARNER HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/40
+#EXTINF:-1 tvg-logo="" group-title="MOVIES" ,CCM HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/42
+#EXTINF:-1 tvg-logo="" group-title="MOVIES" ,CELESTIAL MOVIES HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/43
+#EXTINF:-1 tvg-logo="" group-title="MOVIES" ,ROCK ACTION HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/45
+#EXTINF:-1 tvg-logo="" group-title="MOVIES" ,AXN HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/46
+#EXTINF:-1 tvg-logo="" group-title="MOVIES" ,KIX HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/47
+#EXTINF:-1 tvg-logo="" group-title="MOVIES" ,THRILL HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/48
+#EXTINF:-1 tvg-logo="" group-title="MOVIES" ,TVN Movies HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/49
+#EXTINF:-1 tvg-logo="" group-title="MOVIES" ,GALAXY HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/50
+#EXTINF:-1 tvg-logo="" group-title="MOVIES" ,GALAXY PREMIUM HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/51
+#EXTINF:-1 tvg-logo="" group-title="MOVIES" ,CINEMA WORLD HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/52
+#EXTINF:-1 tvg-logo="" group-title="MOVIES" ,ZEE BIOSKOP
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/4105
+#EXTINF:-1 tvg-logo="" group-title="MOVIES" ,HITS HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/53
+#EXTINF:-1 tvg-logo="" group-title="MOVIES" ,HITS MOVIES HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/54
+#EXTINF:-1 tvg-logo="" group-title="MOVIES" ,CINEMACHI
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3272
+#EXTINF:-1 tvg-logo="" group-title="MOVIES" ,CINEMACHI ACTION
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3273
+#EXTINF:-1 tvg-logo="" group-title="MOVIES" ,CINEMACHI MAX
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3274
+#EXTINF:-1 tvg-logo="" group-title="MOVIES" ,CINEMACHI EXTRA
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3275
+#EXTINF:-1 tvg-logo="" group-title="MOVIES" ,My CINEMA HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/55
+#EXTINF:-1 tvg-logo="" group-title="MOVIES" ,My CINEMA Asia HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/56
+#EXTINF:-1 tvg-logo="" group-title="MOVIES" ,My FAMILY Channel HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/57
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT" ,DUNIA LAIN
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3277
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT" ,K PLUS
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3278
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT" ,CHINESE DRAMA
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3279
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT" ,SONY ONE
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3280
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT" ,SONY GEM
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3281
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT" ,ROCK ENTERTAINMENT
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3282
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT" ,TVN
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3283
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT" ,VISION PRIME
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3285
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT" ,OK TV
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3286
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT" ,FMN
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3287
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT" ,TV 5 MONDE
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3289
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT" ,ABC AUSTRALIA
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3290
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT" ,NHK WORLD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3291
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT" ,NHK WORLD PREMIUM
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3292
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT" ,KBS WORLD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3293
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT" ,ARIRANG
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3294
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE" ,DISCOVERY CHANNEL
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3295
+#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE" ,NAT GEO
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3296
+#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE" ,NAT GEO WILD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3297
+#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE" ,ANIMAL PLANET
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3298
+#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE" ,BBC EARTH
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3299
+#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE" ,LOVE NATURE
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3300
+#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE" ,HISTORY
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3301
+#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE" ,CRIME INVESTIGATION
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3302
+#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE" ,Discovery Asia
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3303
+#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE" ,CGTN DOCUMENTARY
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3304
+#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE" ,DMAX
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3305
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="LIFESTYLE" ,HGTV
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1782
+#EXTINF:-1 tvg-logo="" group-title="LIFESTYLE" ,TLC
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1783
+#EXTINF:-1 tvg-logo="" group-title="LIFESTYLE" ,AFN
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1784
+#EXTINF:-1 tvg-logo="" group-title="LIFESTYLE" ,LIFETIME
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1785
+#EXTINF:-1 tvg-logo="" group-title="LIFESTYLE" ,FASHION TV
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1786
+#EXTINF:-1 tvg-logo="" group-title="LIFESTYLE" ,Fashion TV Midnight
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1787
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="KIDS" ,MASHA & BEAR
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1788
+#EXTINF:-1 tvg-logo="" group-title="KIDS" ,LARVA
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1789
+#EXTINF:-1 tvg-logo="" group-title="KIDS" ,DORAEMAON
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1790
+#EXTINF:-1 tvg-logo="" group-title="KIDS" ,UPIN IPIN
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1791
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="KIDS-ID" ,MENTARI TV
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3306
+#EXTINF:-1 tvg-logo="" group-title="KIDS-ID" ,ASTRO CERIA
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3307
+#EXTINF:-1 tvg-logo="" group-title="KIDS-ID" ,HOREE
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3308
+#EXTINF:-1 tvg-logo="" group-title="KIDS-ID" ,DREAMWORS
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3309
+#EXTINF:-1 tvg-logo="" group-title="KIDS-ID" ,CARTOON NETWORK
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3310
+#EXTINF:-1 tvg-logo="" group-title="KIDS-ID" ,MY KIDZ
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3311
+#EXTINF:-1 tvg-logo="" group-title="KIDS-ID" ,NICK JR
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3312
+#EXTINF:-1 tvg-logo="" group-title="KIDS-ID" ,NICKELODEON
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3313
+#EXTINF:-1 tvg-logo="" group-title="KIDS-ID" ,KIDS TV
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3314
+#EXTINF:-1 tvg-logo="" group-title="KIDS-ID" ,ANIPLUS
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3315
+#EXTINF:-1 tvg-logo="" group-title="KIDS-ID" ,ANIMAX
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3316
+#EXTINF:-1 tvg-logo="" group-title="KIDS-ID" ,CBEBIES
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3317
+#EXTINF:-1 tvg-logo="" group-title="KIDS-ID" ,ZOO MOO
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3318
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="NEWS" ,SINDO NEWS
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3319
+#EXTINF:-1 tvg-logo="" group-title="NEWS" ,CNN INTERNATIONAL
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3320
+#EXTINF:-1 tvg-logo="" group-title="NEWS" ,ALJAZEERA
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3321
+#EXTINF:-1 tvg-logo="" group-title="NEWS" ,BBC WORLD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3322
+#EXTINF:-1 tvg-logo="" group-title="NEWS" ,FOX NEWS
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3323
+#EXTINF:-1 tvg-logo="" group-title="NEWS" ,RT ENGLISH
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3324
+#EXTINF:-1 tvg-logo="" group-title="NEWS" ,EURO NEWS
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3325
+#EXTINF:-1 tvg-logo="" group-title="NEWS" ,DW ENGLISH
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3326
+#EXTINF:-1 tvg-logo="" group-title="NEWS" ,FRANCE 24
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3327
+#EXTINF:-1 tvg-logo="" group-title="NEWS" ,CNBC ASIA
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3328
+#EXTINF:-1 tvg-logo="" group-title="NEWS" ,BLOOMBERG
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3329
+#EXTINF:-1 tvg-logo="" group-title="NEWS" ,CGTN
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3330
+#EXTINF:-1 tvg-logo="" group-title="NEWS" ,CNA
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3331
+#EXTINF:-1 tvg-logo="" group-title="NEWS" ,IDX
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3332
+#EXTINF:-1 tvg-logo="" group-title="NEWS" ,SEA TODAY
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3333
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="RELIGI" ,RODJA TV
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3334
+#EXTINF:-1 tvg-logo="" group-title="RELIGI" ,MUSLIM TV
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3335
+#EXTINF:-1 tvg-logo="" group-title="RELIGI" ,MAKKAH TV
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3336
+#EXTINF:-1 tvg-logo="" group-title="RELIGI" ,TAWAF TV
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3337
+#EXTINF:-1 tvg-logo="" group-title="RELIGI" ,MUHAMMADIYAH TV
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3338
+#EXTINF:-1 tvg-logo="" group-title="RELIGI" ,REFORMED 21
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3339
+#EXTINF:-1 tvg-logo="" group-title="RELIGI" ,LIFE
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3340
+#EXTINF:-1 tvg-logo="" group-title="RELIGI" ,EWTN
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3341
+#EXTINF:-1 tvg-logo="" group-title="RELIGI" ,MTV LIVE
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3342
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="MUSIC" ,MUSIC TV
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3343
+#EXTINF:-1 tvg-logo="" group-title="MUSIC" ,TRACE URBAN
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3344
+#EXTINF:-1 tvg-logo="" group-title="MUSIC" ,RETRO MUSIC
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3345
+#EXTINF:-1 tvg-logo="" group-title="MUSIC" ,KPOP
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3346
+#EXTINF:-1 tvg-logo="" group-title="MUSIC" ,XITE 80s FLASHBLACK
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3347
+#EXTINF:-1 tvg-logo="" group-title="MUSIC" ,XITE 90s THROWBACK
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3348
+#EXTINF:-1 tvg-logo="" group-title="MUSIC" ,XITE ROCK ON
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3349
+#EXTINF:-1 tvg-logo="" group-title="MUSIC" ,XITE Hits
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3350
+#EXTINF:-1 tvg-logo="" group-title="MUSIC" ,XITE Only Love
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3351
+#EXTINF:-1 tvg-logo="" group-title="MUSIC" ,Vevo '80s
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3352
+#EXTINF:-1 tvg-logo="" group-title="MUSIC" ,Vevo '90s
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3353
+#EXTINF:-1 tvg-logo="" group-title="MUSIC" ,Vevo 2K
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3354
+#EXTINF:-1 tvg-logo="" group-title="MUSIC" ,Vevo 2010s
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3355
+#EXTINF:-1 tvg-logo="" group-title="MUSIC" ,Vevo Retro Rock
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3356
+#EXTINF:-1 tvg-logo="" group-title="MUSIC" ,Vevo Pop
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3357
+#EXTINF:-1 tvg-logo="" group-title="MUSIC" ,NOW 90s
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3358
+#EXTINF:-1 tvg-logo="" group-title="MUSIC" ,NOW 80s
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3359
+#EXTINF:-1 tvg-logo="" group-title="MUSIC" ,NOW 70s
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3360
+#EXTINF:-1 tvg-logo="" group-title="MUSIC" ,Rock & Roll
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3361
+#EXTINF:-1 tvg-logo="" group-title="MUSIC" ,mOBA
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3362
+#EXTINF:-1 tvg-logo="" group-title="MUSIC" ,POP STAR
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3363
+#EXTINF:-1 tvg-logo="" group-title="MUSIC" ,JEKA
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3364
+#EXTINF:-1 tvg-logo="" group-title="MUSIC" ,WWM
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3365
+#EXTINF:-1 tvg-logo="" group-title="MUSIC" ,MUZZIK
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3366
+#EXTINF:-1 tvg-logo="" group-title="MUSIC" ,SENSE
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3367
+#EXTINF:-1 tvg-logo="" group-title="MUSIC" ,FLASH BACK
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3368
+#EXTINF:-1 tvg-logo="" group-title="MUSIC" ,ELECTRO
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3369
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="DAERAH" ,JOWO CHANNEL
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2007
+#EXTINF:-1 tvg-logo="" group-title="DAERAH" ,SAKTI TV
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2008
+#EXTINF:-1 tvg-logo="" group-title="DAERAH" ,JTV
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2009
+#EXTINF:-1 tvg-logo="" group-title="DAERAH" ,GARUDA TV
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2010
+#EXTINF:-1 tvg-logo="" group-title="DAERAH" ,SMTV
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2011
+#EXTINF:-1 tvg-logo="" group-title="DAERAH" ,BALI TV
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2012
+#EXTINF:-1 tvg-logo="" group-title="DAERAH" ,BANDUNG TV
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2013
+#EXTINF:-1 tvg-logo="" group-title="DAERAH" ,PADANG TV
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2014
+#EXTINF:-1 tvg-logo="" group-title="DAERAH" ,TABALONG TV
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2015
+#EXTINF:-1 tvg-logo="" group-title="DAERAH" ,DUTA TV
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2016
+#EXTINF:-1 tvg-logo="" group-title="DAERAH" ,KAWANUA TV
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2017
+#EXTINF:-1 tvg-logo="" group-title="DAERAH" ,JITV
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2018
+#EXTINF:-1 tvg-logo="" group-title="DAERAH" ,SIMPANG 5 TV
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2019
+#EXTINF:-1 tvg-logo="" group-title="DAERAH" ,ADITV
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2020
+#EXTINF:-1 tvg-logo="" group-title="DAERAH" ,TATV
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2021
+#EXTINF:-1 tvg-logo="" group-title="DAERAH" ,TVKU
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2022
+#EXTINF:-1 tvg-logo="" group-title="DAERAH" ,BTV BALIKPAPAN
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2023
+#EXTINF:-1 tvg-logo="" group-title="DAERAH" ,JAMBI TV
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2024
+#EXTINF:-1 tvg-logo="" group-title="DAERAH" ,BADAR TV
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2025
+#EXTINF:-1 tvg-logo="" group-title="DAERAH" ,INSPIRA TV
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2026
+#EXTINF:-1 tvg-logo="" group-title="DAERAH" ,PKTV
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2027
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="CH-MALAYSIA" ,ASTRO BOO
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3463
+#EXTINF:-1 tvg-logo="" group-title="CH-MALAYSIA" ,ASTRO PREMIER
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3464
+#EXTINF:-1 tvg-logo="" group-title="CH-MALAYSIA" ,ASTRO OASIS
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3465
+#EXTINF:-1 tvg-logo="" group-title="CH-MALAYSIA" ,ASTRO RANIA
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3466
+#EXTINF:-1 tvg-logo="" group-title="CH-MALAYSIA" ,ASTRO AURA
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3467
+#EXTINF:-1 tvg-logo="" group-title="CH-MALAYSIA" ,AWESOME
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3468
+#EXTINF:-1 tvg-logo="" group-title="CH-MALAYSIA" ,SHOWCASE MOVIE
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3469
+#EXTINF:-1 tvg-logo="" group-title="CH-MALAYSIA" ,DUNIA SINEMA
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3470
+#EXTINF:-1 tvg-logo="" group-title="CH-MALAYSIA" ,TV 1
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3471
+#EXTINF:-1 tvg-logo="" group-title="CH-MALAYSIA" ,TV 2
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3472
+#EXTINF:-1 tvg-logo="" group-title="CH-MALAYSIA" ,TV 3
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3473
+#EXTINF:-1 tvg-logo="" group-title="CH-MALAYSIA" ,TV 6
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3474
+#EXTINF:-1 tvg-logo="" group-title="CH-MALAYSIA" ,TV 8
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3475
+#EXTINF:-1 tvg-logo="" group-title="CH-MALAYSIA" ,TV 9
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3476
+#EXTINF:-1 tvg-logo="" group-title="CH-MALAYSIA" ,OKEY
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3477
+#EXTINF:-1 tvg-logo="" group-title="CH-MALAYSIA" ,RTB Aneka
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3478
+#EXTINF:-1 tvg-logo="" group-title="CH-MALAYSIA" ,RTB GO LIVE
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3479
+#EXTINF:-1 tvg-logo="" group-title="CH-MALAYSIA" ,RTB Sukmaindera
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3480
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="CH-SINGAPORE" ,CH 5
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3481
+#EXTINF:-1 tvg-logo="" group-title="CH-SINGAPORE" ,CH 8
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3482
+#EXTINF:-1 tvg-logo="" group-title="CH-SINGAPORE" ,CH U
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3483
+#EXTINF:-1 tvg-logo="" group-title="CH-SINGAPORE" ,SURIA
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3484
+#EXTINF:-1 tvg-logo="" group-title="CH-SINGAPORE" ,VASATHAM
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3485
+
+
+
+#EXTINF:-1 tvg-logo="https://ia801803.us.archive.org/28/items/logosother/liveevents.png" group-title="LIVE EVENT" ,LIVE 1
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1838
+#EXTINF:-1 tvg-logo="https://ia801803.us.archive.org/28/items/logosother/liveevents.png" group-title="LIVE EVENT" ,LIVE 2
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1839
+#EXTINF:-1 tvg-logo="https://ia801803.us.archive.org/28/items/logosother/liveevents.png" group-title="LIVE EVENT" ,LIVE 3
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1840
+#EXTINF:-1 tvg-logo="https://ia801803.us.archive.org/28/items/logosother/liveevents.png" group-title="LIVE EVENT" ,LIVE 4
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/4076
+#EXTINF:-1 tvg-logo="https://ia801803.us.archive.org/28/items/logosother/liveevents.png" group-title="LIVE EVENT" ,LIVE 5
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/4078
+#EXTINF:-1 tvg-logo="https://ia801803.us.archive.org/28/items/logosother/liveevents.png" group-title="LIVE EVENT" ,LIVE 6
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/4079
+#EXTINF:-1 tvg-logo="https://ia801803.us.archive.org/28/items/logosother/liveevents.png" group-title="LIVE EVENT" ,LIVE 7
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/4080
+#EXTINF:-1 tvg-logo="https://ia801803.us.archive.org/28/items/logosother/liveevents.png" group-title="LIVE EVENT" ,LIVE 8
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/4081
+#EXTINF:-1 tvg-logo="https://ia801803.us.archive.org/28/items/logosother/liveevents.png" group-title="LIVE EVENT" ,LIVE 9
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1842
+
+#EXTINF:-1 tvg-logo="https://ia801803.us.archive.org/28/items/logosother/liveevents.png" group-title="LIVE EVENT" ,LIVE 10
+https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
+#EXTINF:-1 tvg-logo="https://ia801803.us.archive.org/28/items/logosother/liveevents.png" group-title="LIVE EVENT" , LIVE 11
+https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1JSp2t6bi2b731gndCJW7zNQeUf2640SJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4" group-title="LIVE EVENT#2",CCTV 5+ 
+  https://node3.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+  #EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1JSp2t6bi2b731gndCJW7zNQeUf2640SJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4" group-title="LIVE EVENT#2",CCTV 5+ HD
+  https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
+
+  #EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1JSp2t6bi2b731gndCJW7zNQeUf2640SJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4" group-title="LIVE EVENT#2",CH4VIVOHD
+  https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
+
+  #EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1JSp2t6bi2b731gndCJW7zNQeUf2640SJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4" group-title="LIVE EVENT#2",CTSPORTHD
+  #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+  #EXTVLCOPT:http-referer=https://webtv.sk/tv/
+  #KODIPROP:inputstreamaddon=inputstream.adaptive
+  #KODIPROP:inputstream.adaptive.manifest_type=dash
+  #KODIPROP:inputstream.adaptive.license_type=clearkey
+  #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:11223344556677889900112233445566
+  https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd
+
+  #EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1JSp2t6bi2b731gndCJW7zNQeUf2640SJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4" group-title="LIVE EVENT#2",DIDANTVHD
+  https://live.tmk.ir/channel1/signal/stream_720/index.m3u8
+
+  #EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1JSp2t6bi2b731gndCJW7zNQeUf2640SJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4" group-title="LIVE EVENT#2",ETVHD
+  #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+  #KODIPROP:inputstream.adaptive.license_key=8cef674613af4db5a0e6c64f38149878:65231111f4044f8a067ad0de10b59d49
+  https://cdnlb.tvplayhome.lt/live/eds/ETV_HD_HVC/GO3_LIVE_DASH_AVC/ETV_HD_HVC.mpd
+
+  #EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1JSp2t6bi2b731gndCJW7zNQeUf2640SJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4" group-title="LIVE EVENT#2",ZDFHD
+  #KODIPROP:inputstream.adaptive.license_type=clearkey
+  #KODIPROP:inputstream.adaptive.license_key=7757d3fa8cdab673a2dd9f3ed7b41360:96e498b70eeecfc0164ed4e0a78e36f3
+  https://p7s1-live-001-prod.akamaized.net/45371d5a/t_009/zdf-de-hd/cenc-default.mpd
+
+  #EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1JSp2t6bi2b731gndCJW7zNQeUf2640SJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4" group-title="LIVE EVENT#2",TV3HD
+  #KODIPROP:inputstream.adaptive.manifest_type=mpd
+  #KODIPROP:inputstream.adaptive.license_type=clearkey
+  #KODIPROP:inputstream.adaptive.license_key=748d32a5e8e64c7780df70a86a3fb1dc:e3deb83f5738e9ce4cdeb6cab7f473f5
+  https://cdnlb.tvplayhome.lt/live/eds/TV3_LT_HD_HVC/GO3_LIVE_DASH_AVC/TV3_LT_HD_HVC.mpd
+
+  #EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1JSp2t6bi2b731gndCJW7zNQeUf2640SJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4" group-title="LIVE EVENT#2",TV6HD
+  #KODIPROP:inputstream.adaptive.manifest_type=mpd
+  #KODIPROP:inputstream.adaptive.license_type=clearkey
+  #KODIPROP:inputstream.adaptive.license_key=58cf48fdf76849ae9eda44bf8b1506b2:bdc640533aac8955a6293158210e0a7d
+  https://cdnlb.tvplayhome.lt/live/eds/TV6_LT_HD_HVC/GO3_LIVE_DASH_AVC/TV6_LT_HD_HVC.mpd
+
+  #EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1JSp2t6bi2b731gndCJW7zNQeUf2640SJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4" group-title="LIVE EVENT#2",MCOTHD
+  #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36
+  https://edge6a.v2h-cdn.com/mcothd/mcothd.stream/playlist.m3u8
+
+  #EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1JSp2t6bi2b731gndCJW7zNQeUf2640SJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4" group-title="LIVE EVENT#2",ThairathTVHD
+  #KODIPROP:inputstreamaddon=inputstream.adaptive
+  #KODIPROP:inputstream.adaptive.manifest_type=dash
+  #KODIPROP:inputstream.adaptive.license_type=clearkey
+  #KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
+  https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
+
+  #EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1JSp2t6bi2b731gndCJW7zNQeUf2640SJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4" group-title="LIVE EVENT#2",PPTV 36 
+  #KODIPROP:inputstream.adaptive.license_type=clearkey
+  #KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
+  https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
+
+  #EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1JSp2t6bi2b731gndCJW7zNQeUf2640SJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4" group-title="LIVE EVENT#2",SportStars 3
+  #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+  #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+  #EXTVLCOPT:http-referrer=https://visionplus.id
+  https://melon-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
+  #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.googleapis.com/drive/v3/files/1JSp2t6bi2b731gndCJW7zNQeUf2640SJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4" group-title="LIVE EVENT#2", Sportstars 4
+  #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+  #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+  #EXTVLCOPT:http-referrer=https://www.visionplus.id/
+  https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+
+  #KODIPROP:inputstream=inputstream.ffmpegdirect
+  #KODIPROP:mimetype=video/mp2t
+  #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+  #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+  #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+  #EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1JSp2t6bi2b731gndCJW7zNQeUf2640SJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4" group-title="LIVE EVENT#2",BeinSport 1
+  http://162.19.37.133:8080/play/live.php?mac=00:1A:79:C0:B2:04&stream=124773_&extension=ts
+
+
+#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/D560BAQGwZJIOsprOUg/company-logo_200_200/0/1709802734490/mojisocial_logo?e=1726704000&v=beta&t=5Mt7Nwu9t-aq5JamDLA3KFSnJFnU-GjfWJYm4bSjhkQ" group-title="SPORTS | ID" ,MOJI HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1803
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="SPORTS | ID" ,BEIN 1 ID
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3486
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="SPORTS | ID" ,BEIN 3 ID
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3487
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png" group-title="SPORTS | ID" ,SPOTV 1
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3488
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_428.png" group-title="SPORTS | ID" ,SPOTV 2
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3489
+#EXTINF:-1 tvg-logo="https://blog.visionplus.id/wp-content/uploads/2023/07/jadwal-program-sportstar.jpg" group-title="SPORTS | ID" ,SPORTSTARS 1
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3490
+#EXTINF:-1 tvg-logo="https://blog.visionplus.id/wp-content/uploads/2023/07/jadwal-program-sportstar.jpg" group-title="SPORTS | ID" ,SPORTSTARS 2
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3491
+#EXTINF:-1 tvg-logo="https://blog.visionplus.id/wp-content/uploads/2023/07/jadwal-program-sportstar.jpg" group-title="SPORTS | ID" ,SPORTSTARS 3
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3492
+#EXTINF:-1 tvg-logo="https://blog.visionplus.id/wp-content/uploads/2023/07/jadwal-program-sportstar.jpg" group-title="SPORTS | ID" ,SPORTSTARS 4
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3493
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png" group-title="SPORTS | ID" ,SOCCER CHANNEL
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3494
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS | MY" ,ASSP 1 FHD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1812
+#EXTINF:-1 tvg-logo="" group-title="SPORTS | MY" ,ASSP 2 FHD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1813
+#EXTINF:-1 tvg-logo="" group-title="SPORTS | MY" ,ASSP 3 FHD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1814
+#EXTINF:-1 tvg-logo="" group-title="SPORTS | MY" ,ASSP 4 FHD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1815
+#EXTINF:-1 tvg-logo="" group-title="SPORTS | MY" ,ASTRO ARENA 1
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3495
+#EXTINF:-1 tvg-logo="" group-title="SPORTS | MY" ,ASTRO ARENA 2
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3496
+#EXTINF:-1 tvg-logo="" group-title="SPORTS | MY" ,ASTRO CRICKET
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3497
+#EXTINF:-1 tvg-logo="" group-title="SPORTS | MY" ,beIN SPORTS 1 MY
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3498
+#EXTINF:-1 tvg-logo="" group-title="SPORTS | MY" ,beIN SPORTS 2 MY
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3499
+#EXTINF:-1 tvg-logo="" group-title="SPORTS | MY" ,beIN SPORTS 3 MY
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3500
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sky_Sport_Switzerland.svg/1600px-Sky_Sport_Switzerland.svg.png?20190203111014" group-title="SPORTS | SKY" ,Sky Sports F1 UK
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3501
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sky_Sport_Switzerland.svg/1600px-Sky_Sport_Switzerland.svg.png?20190203111014" group-title="SPORTS | SKY" ,Sky Sports Premier UK
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3502
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sky_Sport_Switzerland.svg/1600px-Sky_Sport_Switzerland.svg.png?20190203111014" group-title="SPORTS | SKY" ,Sky Sports Football UK
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3503
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sky_Sport_Switzerland.svg/1600px-Sky_Sport_Switzerland.svg.png?20190203111014" group-title="SPORTS | SKY" ,Sky Sports Tennis UK
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3504
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sky_Sport_Switzerland.svg/1600px-Sky_Sport_Switzerland.svg.png?20190203111014" group-title="SPORTS | SKY" ,Sky Sports Main Events UK
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3505
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sky_Sport_Switzerland.svg/1600px-Sky_Sport_Switzerland.svg.png?20190203111014" group-title="SPORTS | SKY" ,Sky Sports Action UK
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3506
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sky_Sport_Switzerland.svg/1600px-Sky_Sport_Switzerland.svg.png?20190203111014" group-title="SPORTS | SKY" ,Sky Sports Arena UK
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3507
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sky_Sport_Switzerland.svg/1600px-Sky_Sport_Switzerland.svg.png?20190203111014" group-title="SPORTS | SKY" ,Sky Sports News UK
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3508
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sky_Sport_Switzerland.svg/1600px-Sky_Sport_Switzerland.svg.png?20190203111014" group-title="SPORTS | SKY" ,Sky Sports Cricket UK
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3509
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sky_Sport_Switzerland.svg/1600px-Sky_Sport_Switzerland.svg.png?20190203111014" group-title="SPORTS | SKY" ,Sky Sports Golf UK
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3510
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnoZX6HynItrj2L0vA70OwPi_TlGLEBrF54i7CzkGjmhlsOs8dao0Bx5Hxgd_JV-4F9-E&usqp=CAU" group-title="SPORTS | ARENA", ARENA PREMIUM 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnoZX6HynItrj2L0vA70OwPi_TlGLEBrF54i7CzkGjmhlsOs8dao0Bx5Hxgd_JV-4F9-E&usqp=CAU" group-title="SPORTS | ARENA", ARENA PREMIUM 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnoZX6HynItrj2L0vA70OwPi_TlGLEBrF54i7CzkGjmhlsOs8dao0Bx5Hxgd_JV-4F9-E&usqp=CAU" group-title="SPORTS | ARENA", ARENA PREMIUM 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnoZX6HynItrj2L0vA70OwPi_TlGLEBrF54i7CzkGjmhlsOs8dao0Bx5Hxgd_JV-4F9-E&usqp=CAU" group-title="SPORTS | ARENA", ARENA 1 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnoZX6HynItrj2L0vA70OwPi_TlGLEBrF54i7CzkGjmhlsOs8dao0Bx5Hxgd_JV-4F9-E&usqp=CAU" group-title="SPORTS | ARENA", ARENA 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena2.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnoZX6HynItrj2L0vA70OwPi_TlGLEBrF54i7CzkGjmhlsOs8dao0Bx5Hxgd_JV-4F9-E&usqp=CAU" group-title="SPORTS | ARENA", ARENA 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnoZX6HynItrj2L0vA70OwPi_TlGLEBrF54i7CzkGjmhlsOs8dao0Bx5Hxgd_JV-4F9-E&usqp=CAU" group-title="SPORTS | ARENA", ARENA 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnoZX6HynItrj2L0vA70OwPi_TlGLEBrF54i7CzkGjmhlsOs8dao0Bx5Hxgd_JV-4F9-E&usqp=CAU" group-title="SPORTS | ARENA", ARENA 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnoZX6HynItrj2L0vA70OwPi_TlGLEBrF54i7CzkGjmhlsOs8dao0Bx5Hxgd_JV-4F9-E&usqp=CAU" group-title="SPORTS | ARENA", ARENA 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnoZX6HynItrj2L0vA70OwPi_TlGLEBrF54i7CzkGjmhlsOs8dao0Bx5Hxgd_JV-4F9-E&usqp=CAU" group-title="SPORTS | ARENA", ARENA 1 X 2 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena_1x2.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnoZX6HynItrj2L0vA70OwPi_TlGLEBrF54i7CzkGjmhlsOs8dao0Bx5Hxgd_JV-4F9-E&usqp=CAU" group-title="SPORTS | ARENA", ARENA FIGHT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena_fight.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/474_eurosport.jpg" group-title="SPORTS | EP" ,EUROSPORTS 1 UK
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3511
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/474_eurosport.jpg" group-title="SPORTS | EP" ,EUROSPORTS 2 UK
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3512
+
+
+
+#EXTINF:-1 tvg-logo="https://asset.brandfetch.io/idMNsLzI4G/id-b6rGSbY.jpeg?updated=1711043095150" group-title="SPORTS | ELEVEN" ,ELEVEN 1 HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1817
+#EXTINF:-1 tvg-logo="https://asset.brandfetch.io/idMNsLzI4G/id-b6rGSbY.jpeg?updated=1711043095150" group-title="SPORTS | ELEVEN" ,ELEVEN 2 HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1818
+#EXTINF:-1 tvg-logo="https://asset.brandfetch.io/idMNsLzI4G/id-b6rGSbY.jpeg?updated=1711043095150" group-title="SPORTS | ELEVEN" ,ELEVEN 3 HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1819
+#EXTINF:-1 tvg-logo="https://asset.brandfetch.io/idMNsLzI4G/id-b6rGSbY.jpeg?updated=1711043095150" group-title="SPORTS | ELEVEN" ,ELEVEN 4 HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2067
+
+
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="SPORTS | BEIN" ,BEIN SPORTS 1 HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1826
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="SPORTS | BEIN" ,BEIN SPORTS 2 HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1827
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="SPORTS | BEIN" ,BEIN SPORTS 3 HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1828
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="SPORTS | BEIN" ,BEIN SPORTS 4 HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1829
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="SPORTS | BEIN" ,BEIN SPORTS 5 HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1830
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="SPORTS | BEIN" ,BEIN SPORTS 6 HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1831
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="SPORTS | BEIN" ,BEIN SPORTS 7 HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1832
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/12/14120446/Ziggo_Sport.jpg" group-title="SPORTS | ZIGGO" ,Ziggo Sport HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2041
+#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/12/14120446/Ziggo_Sport.jpg" group-title="SPORTS | ZIGGO" ,Ziggo Tennis HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2042
+#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/12/14120446/Ziggo_Sport.jpg" group-title="SPORTS | ZIGGO" ,Ziggo Sport Voetbal HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2043
+#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/12/14120446/Ziggo_Sport.jpg" group-title="SPORTS | ZIGGO" ,Ziggo Sport Select HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2044
+#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/12/14120446/Ziggo_Sport.jpg" group-title="SPORTS | ZIGGO" ,Ziggo Sport Golf HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2045
+
+
+
+#EXTINF:-1 tvg-logo="https://lovesports24.com/upload/images/20240313_092040.jpg" group-title="SPORTS | TNT" ,TNT 1 HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2056
+#EXTINF:-1 tvg-logo="https://lovesports24.com/upload/images/20240313_092433.jpg" group-title="SPORTS | TNT" ,TNT 2 HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2057
+#EXTINF:-1 tvg-logo="https://lovesports24.com/upload/images/20240313_092838.jpg" group-title="SPORTS | TNT" ,TNT 3 HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2058
+#EXTINF:-1 tvg-logo="https://lovesports24.com/upload/images/20240313_093117.jpg" group-title="SPORTS | TNT" ,TNT 4 HD
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2059
+
+
+
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SPORTS | SONY" ,TEN 1
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3673
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SPORTS | SONY" ,TEN 2
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3674
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SPORTS | SONY" ,TEN 3
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3675
+
+
+
+#EXTINF:-1 tvg-logo="https://ia902308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="SPORTS | SPORTTV" ,SPORTTV 1
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3678
+#EXTINF:-1 tvg-logo="https://ia902308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="SPORTS | SPORTTV" ,SPORTTV 2
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3679
+#EXTINF:-1 tvg-logo="https://ia902308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="SPORTS | SPORTTV" ,SPORTTV 3
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3680
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="MOTO GP&F1" ,CANAL + MOTOGP
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2065
+#EXTINF:-1 tvg-logo="" group-title="MOTO GP&F1" ,FOX 504
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1877
+#EXTINF:-1 tvg-logo="" group-title="MOTO GP&F1" ,FOX 502
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1876
+
+
+
+#EXTINF:-1 tvg-logo="https://rmol.id/images/berita/normal/2023/11/359337_07321621112023_logo_euro_2024_.jpg" group-title="🟩EUFA EURO 2024" ,EURO 2024 - 1
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/4098
+#EXTINF:-1 tvg-logo="https://rmol.id/images/berita/normal/2023/11/359337_07321621112023_logo_euro_2024_.jpg" group-title="🟩EUFA EURO 2024" ,EURO 2024 - 2
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/4099
+#EXTINF:-1 tvg-logo="https://rmol.id/images/berita/normal/2023/11/359337_07321621112023_logo_euro_2024_.jpg" group-title="🟩EUFA EURO 2024" ,EURO 2024 - 3
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/4100
+#EXTINF:-1 tvg-logo="https://rmol.id/images/berita/normal/2023/11/359337_07321621112023_logo_euro_2024_.jpg" group-title="🟩EUFA EURO 2024" ,EURO 2024 - 4
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/4101
+#EXTINF:-1 tvg-logo="https://rmol.id/images/berita/normal/2023/11/359337_07321621112023_logo_euro_2024_.jpg" group-title="🟩EUFA EURO 2024" ,EURO 2024 - 5
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/4102
+#EXTINF:-1 tvg-logo="https://rmol.id/images/berita/normal/2023/11/359337_07321621112023_logo_euro_2024_.jpg" group-title="🟩EUFA EURO 2024" ,EURO 2024 - 6
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/4103
+#EXTINF:-1 tvg-logo="https://rmol.id/images/berita/normal/2023/11/359337_07321621112023_logo_euro_2024_.jpg" group-title="🟩EUFA EURO 2024" ,EURO 2024 - 7
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/4104
+
+
+#EXTINF:-1 tvg-logo="" group-title="GOLF" ,GOLF - 1
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/4162
