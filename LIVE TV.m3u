@@ -64,7 +64,7 @@ https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 #EXTINF:0 group-title="Lokal HD" tvg-logo="http://mycentral.my.id/logo/sctv.png", SCTV-03
-http://metatvpro.xyz:25461/W1506/2204/101
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17578/primary/1080p/v-1080p-1721210804_826206000.m4s?hdntl=exp=1721234413~acl=/*~id=25453321~data=hdntl~hmac=ab65eb53071acaf029d1f00aa8b4eec90e477937f06c271c50a219c50807471f
 
 #EXTINF:0 group-title="Lokal HD" tvg-logo="http://mycentral.my.id/logo/indosiar.png", INDOSIAR
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
