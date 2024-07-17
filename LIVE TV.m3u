@@ -1,3 +1,5 @@
+
+
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://mmc.tirto.id/image/otf/640x0/2024/06/11/uefa-euro-2024_ratio-16x9.jpg" group-title="🟩EURO & COPA",BACKUP-1 https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
 
@@ -62,7 +64,7 @@ https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 #EXTINF:0 group-title="Lokal HD" tvg-logo="http://mycentral.my.id/logo/sctv.png", SCTV-03
-http://metatvpro.xyz:25461/W1506/2204/101.m3u8
+http://metatvpro.xyz:25461/W1506/2204/101
 
 #EXTINF:0 group-title="Lokal HD" tvg-logo="http://mycentral.my.id/logo/indosiar.png", INDOSIAR
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
