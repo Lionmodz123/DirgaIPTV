@@ -64,6 +64,12 @@ https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 #EXTINF:0 group-title="Lokal HD" tvg-logo="http://mycentral.my.id/logo/sctv.png", SCTV-03
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=https://www.vidio.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:11223344556677889900112233445566
 https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17578/primary/1080p/v-1080p-1721210804_826206000.m4s?hdntl=exp=1721234413~acl=/*~id=25453321~data=hdntl~hmac=ab65eb53071acaf029d1f00aa8b4eec90e477937f06c271c50a219c50807471f
 
 #EXTINF:0 group-title="Lokal HD" tvg-logo="http://mycentral.my.id/logo/indosiar.png", INDOSIAR
