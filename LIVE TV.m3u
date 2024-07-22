@@ -70,7 +70,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:11223344556677889900112233445566
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17578_stream.mpd?hdntl=exp=1721234413~acl=%2f*~id=25453321~data=hdntl~hmac=ab65eb53071acaf029d1f00aa8b4eec90e477937f06c271c50a219c50807471f
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8=hdntl~hmac=ab65eb53071acaf029d1f00aa8b4eec90e477937f06c271c50a219c50807471f
 
 #EXTINF:0 group-title="Lokal HD" tvg-logo="http://mycentral.my.id/logo/indosiar.png", INDOSIAR
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
