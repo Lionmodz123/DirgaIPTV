@@ -218,7 +218,9 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157591
 
 #EXTINF:0 group-title="Lokal FHD" tvg-logo="http://mycentral.my.id/logo/sctv.png", SCTV
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162141
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 33; en; RIZOPKPTVI) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-referer=https://luxurystream.my.id
+https://luxurystream.my.id/live/2003F9CA53C30E4A7FD8BE6342AE1751/2.ts
 
 #EXTINF:0 group-title="Lokal FHD" tvg-logo="http://mycentral.my.id/logo/gtv.png", GTV
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157578
