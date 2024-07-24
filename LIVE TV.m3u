@@ -210,6 +210,11 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162504
 #EXTINF:0 group-title="Lokal FHD" tvg-logo="http://mycentral.my.id/logo/indosiar.png", INDOSIAR
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
 
+#EXTINF:0 group-title="Lokal FHD" tvg-logo="http://mycentral.my.id/logo/indosiar.png", INDOSIAR-02
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 33; en; RIZOPKPTVI) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-referer=https://luxurystream.my.id
+https://luxurystream.my.id/live/2003F9CA53C30E4A7FD8BE6342AE1751/1.ts
+
 #EXTINF:0 group-title="Lokal FHD" tvg-logo="http://mycentral.my.id/logo/rcti.png", RCTI
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157591
 
