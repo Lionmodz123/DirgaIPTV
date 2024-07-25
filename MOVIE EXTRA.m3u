@@ -1,8 +1,4 @@
-#EXTINF:-1  group-title="MOVIES | TEST" tvg-logo="", CITA
-#EXTVLCOPT:http-user-agent=okhttp/4.9.0
-#EXTVLCOPT:http-referer=http://suratdarirakyat.my.id
-#EXTVLCOPT:http-API-KEY=xdtry06h497eybeb5ihhhnzh
-http://suratdarirakyat.my.id/rest-api//v133/all_comments?id=13472
+
 =======MOVIES INDIA======
 
 #EXTINF:-1  group-title="MOVIES | INDIA" tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2024/04/film-siren-2024-lk21-d21.jpg", SIREN(2024) 
@@ -105,7 +101,7 @@ https://stream.hownetwork.xyz/yyy/drishyam-2-2022-webdl/3/480.m3u8
 https://stream.hownetwork.xyz/xxx/jab-tak-hai-jaan-2012-bluray/7/480.m3u8
 
 
-======MOVIES INDIA======
+======MOVIES MANDARIN======
 
 #EXTINF:-1 tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2023/02/film-sakra-2023-lk21-d21.jpg.webp" group-title="MOVIES | MANDARIN",Sakra (2023)
 https://stream.hownetwork.xyz/xxx/sakra-2023-bluray/11/480.m3u8
