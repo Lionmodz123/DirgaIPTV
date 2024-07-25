@@ -2,7 +2,7 @@
 #EXTVLCOPT:http-user-agent=okhttp/4.9.0
 #EXTVLCOPT:http-referer=http://suratdarirakyat.my.id
 #EXTVLCOPT:http-API-KEY=xdtry06h497eybeb5ihhhnzh
-http://suratdarirakyat.my.id/rest-api//v133/single_details?type=movie&id=13472
+http://suratdarirakyat.my.id/rest-api//v133/all_comments?id=13472
 =======MOVIES INDIA======
 
 #EXTINF:-1  group-title="MOVIES | INDIA" tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2024/04/film-siren-2024-lk21-d21.jpg", SIREN(2024) 
