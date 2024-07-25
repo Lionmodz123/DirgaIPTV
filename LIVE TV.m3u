@@ -17,12 +17,12 @@ http://1clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chun
 #EXTINF:0 group-title="🟩AFF U19" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2024/07/17/logo-piala-aff-u-19-2024_169.png?w=650&q=80", LIVE-03
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 33; en; RIZOPKPTVI) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-referer=https://luxurystream.my.id
-https://luxurystream.my.id/live/2003F9CA53C30E4A7FD8BE6342AE1751/2.ts
+##https://luxurystream.my.id/live/2003F9CA53C30E4A7FD8BE6342AE1751/2.ts
 
 #EXTINF:0 group-title="🟩AFF U19" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2024/07/17/logo-piala-aff-u-19-2024_169.png?w=650&q=80", LIVE-04
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 33; en; RIZOPKPTVI) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-referer=https://luxurystream.my.id
-https://luxurystream.my.id/live/2003F9CA53C30E4A7FD8BE6342AE1751/17.ts
+##https://luxurystream.my.id/live/2003F9CA53C30E4A7FD8BE6342AE1751/17.ts
 
   =====LOKAL Auto=====
 
@@ -194,7 +194,7 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
 #EXTINF:0 group-title="Lokal FHD" tvg-logo="http://mycentral.my.id/logo/indosiar.png", INDOSIAR-02
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 33; en; RIZOPKPTVI) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-referer=https://luxurystream.my.id
-https://luxurystream.my.id/live/2003F9CA53C30E4A7FD8BE6342AE1751/1.ts
+##https://luxurystream.my.id/live/2003F9CA53C30E4A7FD8BE6342AE1751/1.ts
 
 #EXTINF:0 group-title="Lokal FHD" tvg-logo="http://mycentral.my.id/logo/rcti.png", RCTI
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157591
@@ -202,12 +202,12 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157591
 #EXTINF:0 group-title="Lokal FHD" tvg-logo="http://mycentral.my.id/logo/rcti.png", RCTI-02
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 33; en; RIZOPKPTVI) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-referer=https://luxurystream.my.id
-https://luxurystream.my.id/live/2003F9CA53C30E4A7FD8BE6342AE1751/18.ts
+##https://luxurystream.my.id/live/2003F9CA53C30E4A7FD8BE6342AE1751/18.ts
 
 #EXTINF:0 group-title="Lokal FHD" tvg-logo="http://mycentral.my.id/logo/sctv.png", SCTV
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 33; en; RIZOPKPTVI) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-referer=https://luxurystream.my.id
-https://luxurystream.my.id/live/2003F9CA53C30E4A7FD8BE6342AE1751/2.ts
+##https://luxurystream.my.id/live/2003F9CA53C30E4A7FD8BE6342AE1751/2.ts
 
 #EXTINF:0 group-title="Lokal FHD" tvg-logo="http://mycentral.my.id/logo/gtv.png", GTV
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157578
@@ -221,7 +221,7 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298550
 #EXTINF:0 group-title="Lokal FHD" tvg-logo="http://mycentral.my.id/logo/moji.png", MOJI-02
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 33; en; RIZOPKPTVI) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-referer=https://luxurystream.my.id
-https://luxurystream.my.id/live/2003F9CA53C30E4A7FD8BE6342AE1751/17.ts
+##https://luxurystream.my.id/live/2003F9CA53C30E4A7FD8BE6342AE1751/17.ts
 
 #EXTINF:0 group-title="Lokal FHD" tvg-logo="http://mycentral.my.id/logo/net.png", NET
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/80292
