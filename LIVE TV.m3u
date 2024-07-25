@@ -10,6 +10,10 @@
 #EXTVLCOPT:http-referer=https://1clive.malisresidences.com:1935
 http://1clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/chunklist_w1093715607_b1800000_sleng.m3u8
 
+#EXTINF:0 group-title="🟩AFF U19" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2024/07/17/logo-piala-aff-u-19-2024_169.png?w=650&q=80", LIVE-02
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.4 (Linux;Android 13; 17z98ua) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-referer=https://1clive.malisresidences.com:1935
+http://1clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chunklist_w1459699043_b1800000_sleng.m3u8
 
   =====LOKAL Auto=====
 
