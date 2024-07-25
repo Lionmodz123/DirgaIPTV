@@ -5,7 +5,7 @@
 #EXTINF:0 group-title="🟩OLIMPIC PARIS" tvg-logo="", LIVE-01
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 33; en; ENLFCYPLLR) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-referer=https://mwmpos03.akamaized.net
-https://mwmpos03.akamaized.net/out/v1/0484a3feb7684efb9fc80ec56d66d005/manifest.mpd
+https://mwmpos03.akamaized.net/out/v1/0484a3feb7684efb9fc80ec56d66d005/manifest_audio_1_0_452624.mp4?m=1694490828
 
 
 #EXTINF:0 group-title="🟩AFF U19" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2024/07/17/logo-piala-aff-u-19-2024_169.png?w=650&q=80", LIVE-01
