@@ -6,9 +6,9 @@
 
 
 #EXTINF:0 group-title="🟩OLIMPIC PARIS 2024" tvg-logo="", LIVE-01
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 33; en; RIZOPKPTVI) ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-referer=https://mwmpos03.akamaized.net
-https://mwmpos03.akamaized.net/out/v1/0484a3feb7684efb9fc80ec56d66d005/manifest_audio_1_0_init.mp4?m=1694490828
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.4 (Linux;Android 13; 17z98ua) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-referer=https://1clive.malisresidences.com:1935
+http://1clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/chunklist_w1093715607_b1800000_sleng.m3u8
 
 
   =====LOKAL Auto=====
